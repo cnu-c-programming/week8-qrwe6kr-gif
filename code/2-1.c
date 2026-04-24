@@ -8,7 +8,7 @@ int main()
     arr[0] = 'H';
     printf("%s\n", arr);
     
-    p[0] = 'H';
+    // p[0] = 'H';
     printf("%s\n", p);
     
     return 0;
